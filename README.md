@@ -1,4 +1,4 @@
-# PDF Intelligence - Round 1B
+# PDF Intelligence
 
 A persona-driven document intelligence system that extracts and prioritizes relevant sections from PDF collections based on specific personas and their tasks.
 
