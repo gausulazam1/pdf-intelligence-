@@ -1,0 +1,297 @@
+{
+    "metadata": {
+        "input_documents": [
+            {
+                "filename": "Learn Acrobat - Create and Convert_1.pdf",
+                "title": "Learn Acrobat - Create and Convert_1"
+            },
+            {
+                "filename": "Learn Acrobat - Create and Convert_2.pdf",
+                "title": "Learn Acrobat - Create and Convert_2"
+            },
+            {
+                "filename": "Learn Acrobat - Edit_1.pdf",
+                "title": "Learn Acrobat - Edit_1"
+            },
+            {
+                "filename": "Learn Acrobat - Edit_2.pdf",
+                "title": "Learn Acrobat - Edit_2"
+            },
+            {
+                "filename": "Learn Acrobat - Export_1.pdf",
+                "title": "Learn Acrobat - Export_1"
+            },
+            {
+                "filename": "Learn Acrobat - Export_2.pdf",
+                "title": "Learn Acrobat - Export_2"
+            },
+            {
+                "filename": "Learn Acrobat - Fill and Sign.pdf",
+                "title": "Learn Acrobat - Fill and Sign"
+            },
+            {
+                "filename": "Learn Acrobat - Generative AI_1.pdf",
+                "title": "Learn Acrobat - Generative AI_1"
+            },
+            {
+                "filename": "Learn Acrobat - Generative AI_2.pdf",
+                "title": "Learn Acrobat - Generative AI_2"
+            },
+            {
+                "filename": "Learn Acrobat - Request e-signatures_1.pdf",
+                "title": "Learn Acrobat - Request e-signatures_1"
+            },
+            {
+                "filename": "Learn Acrobat - Request e-signatures_2.pdf",
+                "title": "Learn Acrobat - Request e-signatures_2"
+            },
+            {
+                "filename": "Learn Acrobat - Share_1.pdf",
+                "title": "Learn Acrobat - Share_1"
+            },
+            {
+                "filename": "Learn Acrobat - Share_2.pdf",
+                "title": "Learn Acrobat - Share_2"
+            },
+            {
+                "filename": "Test Your Acrobat Exporting Skills.pdf",
+                "title": "Test Your Acrobat Exporting Skills"
+            },
+            {
+                "filename": "The Ultimate PDF Sharing Checklist.pdf",
+                "title": "The Ultimate PDF Sharing Checklist"
+            }
+        ],
+        "persona": {
+            "role": "HR professional"
+        },
+        "job_to_be_done": {
+            "task": "Create and manage fillable forms for onboarding and compliance."
+        },
+        "processing_timestamp": "2025-07-28T09:54:06.296777"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Advanced authoring: \u2022 Allows access to  all field  types  (highlighted in yellow) \u2022 Supports  form  ",
+            "page_number": 14,
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill in interactive forms An interactive form contains fields that you can select or fill in.",
+            "page_number": 8,
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Types of PDF forms \u2022 Interactive  forms : These  contain fields that you can select and fill in. \u2022 F",
+            "page_number": 2,
+            "importance_rank": 3
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "2. Select anywhere in the form to access options, such as radio buttons. Select inside a text field ",
+            "page_number": 9,
+            "importance_rank": 4
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "validation. Examples include: For instance, companies in the European Union who need to comply with ",
+            "page_number": 20,
+            "importance_rank": 5
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Is the form fillable? Not all forms are fillable. Sometimes form creators don\u2019t convert their PDFs t",
+            "page_number": 8,
+            "importance_rank": 6
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "8. Once done, select the next field space and then enter your text in the text box. Use the formatti",
+            "page_number": 4,
+            "importance_rank": 7
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill and Sign PDF Forms You can easily fill, sign, and share your documents using Acrobat's  Fill & ",
+            "page_number": 1,
+            "importance_rank": 8
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat  Pro) You can change a flat form to a fillable form by either",
+            "page_number": 12,
+            "importance_rank": 9
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "\u2022 Simplified  mode  for multiple  signers This mode provides simplified authoring with the capabilit",
+            "page_number": 5,
+            "importance_rank": 10
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "8. Click  Next  in the upper right corner of the window. The document is now ready to add any fields",
+            "page_number": 13,
+            "importance_rank": 11
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Set privileges  and permissions for others \u2022 Certify a document while leaving portions of it a vaila",
+            "page_number": 21,
+            "importance_rank": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select  E-",
+            "page_number": 2,
+            "importance_rank": 13
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "9. Prepare the Agreement  and Add Fields: You can now add any necessary fields to the agreement. Rem",
+            "page_number": 14,
+            "importance_rank": 14
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "section_title": "5. Once your purchase is complete, you can assign licenses to users from  the Add users to this prod",
+            "page_number": 14,
+            "importance_rank": 15
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "For details on the full range of configuration options in enterprise settings, see the Digital  Sign",
+            "page_number": 25,
+            "importance_rank": 16
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "3. Select  OK in the Save as Certified Document dialog box.",
+            "page_number": 22,
+            "importance_rank": 17
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "\u2022 Is limited to the most common types of  fields: \u2022 Text input (All Text fields are flagged as Requi",
+            "page_number": 14,
+            "importance_rank": 18
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "\u2022 Advanced mode  for multiple  signers If you've added multiple signers, you see the options as show",
+            "page_number": 6,
+            "importance_rank": 19
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "2. Choose from the options, or provide details in the text box. Then select Submit",
+            "page_number": 22,
+            "importance_rank": 20
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "What \u2019s the best way to create a PDF? You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign\u00ae files, digital images, and more. Di\ufb00erent types of sources have di\ufb00erent tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer  in the Print dialog box. If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft Excel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is already open, you don \u2019t have to open the authoring application to convert a file to PDF. Every PDF balances e\ufb03ciency (small file size) and quality (such as resolution and color). If the balance between the file size and th e quality is critical to your task, you must use an appropriate conversion method. For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat applies the most recently used conversion settings without providing access to thos e settings. If you want more control over the process, you \u2019ll want to use another method. PDF creation methods by file type Refer to the following lists to determine the methods available for the di\ufb00erent types of files. File Type  PDF Creation Methods Any file format  Method 1 : From the top tools bar, select  Create . Then, select a file type and then select the file that you want to convert to",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "PDF. Or, select the hamburger menu   (Windows) or the File menu (macOS)   > Create  and then select the appropriate file type and follow through the steps. Method 2 : Drag and drop a file from your system to  the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF .",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Method 4 : Open the file in its source application and go to Print  > Adobe PDF printer . Paper documents (Requires a scanner)  Method 1 : From the top tools bar, select  Create . Then, select  Scanner  as the file type, select the scanner, and follow through the steps or browse to locate a pre -scanned page. Or, select the hamburger menu   (Windows) or the File menu (macOS)  > Create from scanner  and follow through the workflow. Microsoft O\ufb03ce documents  Method 1  (Windows only): From the authoring application toolbar, select Adobe Acrobat  > Create and Share Adobe",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "PDF . Method 2  (Windows only): Open the file in its source application and then go to  Print  > Adobe PDF printer . Method 3  (Windows only): Right -click on the file and select  Convert to Adobe PDF . Method 4 : Drag and drop the file from your system to the Acrobat Home page. Method 5  (macOS only): From the authoring application, select  File > Print  > PDF  > Save as Adobe PDF . Email messages  Method 1 (Windows only) : Within  Microsoft Outlook  or Lotus Notes, select Acrobat PDFMaker or select Adobe PDF  menu options (Outlook) or the Actions menu (Lotus Notes). Method 2  (Windows only) : From the email application, go to Print  > Adobe PDF Create a PDF  (not a  PDF Portfolio) . Method 3  (Outlook 2010 or later): From the email folder or selection of messages, right -click and then select  Convert to Adobe PDF .",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Web pages  Method 1 : From the top tools bar, select  Create . Then, select  Web page  as the file type and follow through the steps. Or, select the hamburger menu   (Windows) or the File menu (macOS)  > Create  > PDF fr om web page and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click on the file and then select Convert to Adobe PDF. Method 4: From the top -right corner of the webpage, selec t > Print  > Adobe PDF . Content copied on the clipboard Method 1 : From the top tools bar, select  Create . Then, select  Clipboard as the file type and follow through the steps. Or, select the hamburger menu   (Windows) or the File menu (macOS)  > Create  > PDF from clipboard  and follow through the workflow. AutoCAD files (Acrobat Pro for Windows only)  Method 1 : From the top tools bar, select  Create  and then select the file. Or, select the hamburger menu   (Windows) or the File menu (macOS)  > Create  > PDF from file  and follow through the workflo w. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right -click the file and select  Convert to Adobe",
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "PDF . Method 4 : Within AutoCAD, go to  Print  > Adobe PDF .",
+            "page_number": 4
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Adobe Photoshop, Adobe Illustrator, and Adobe InDesign files  Method 1 : From the top tools bar, select  Create a PDF  and then select the file. Or, select the hamburger menu   (Windows) or the File menu (macOS)  > Create  > PDF from file  and follow through the workflow. Method 2 : Drag and drop the file from your system to the Acrobat Home page. PostScript and EPS files  Method 1 : From the top tools bar,  select  Create  and then select the file. Or, select the hamburger menu   (Windows) or the File menu (macOS)  > Create  > PDF from file  and follow through the workflow. Method 2 : Drag and drop the file from your system to the Acrobat Distiller icon or Acrobat Distiller window. 3D files (Acrobat Pro)  Method 1 : From the top tools bar, select  Create  and then select the file. Or, select the hamburger menu   (Windows) or the File menu (macO S) > Create  > PDF from file  and follow through the workflow. Method 2 : Drag and drop the HTML file from your system to the Acrobat Home page. Method 3 : From Microsoft PowerPoint, select  Adobe Presenter  > Publish .",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Balance PDF file size and quality You can select various settings to ensure that your PDF has the best balance between file size, resolution, conformity to specific standards, and other factors. The settings you select depend on your goals for the PDF that you are creating. For example, a PDF intended for high -quality",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "commercial printing requires di\ufb00erent settings than a PDF intended only for onscreen viewing and quick downloading over the Internet. Once selected, these settings apply across PDFMaker, Acrobat, and  Acrobat Distiller . Howeve r, some settings are limited to specific contexts or file types. For example, PDFMaker options can vary among the di\ufb00erent types of  Microsoft O\ufb03ce  applications. For convenience, you can select one of the conversion presets available in Acrobat. You can also create, define, save, and reuse custom presets that are uniquely suited to your purposes. For scanned documents, you can choose from Autodetect Color Mode or several scanning presets that are optimized for scanning documents and images in color or bla ck and white. You can modify these presets or use your own custom scanning settings. There are various ways to create a PDF file using Acrobat. You can generate a PDF quickly using the convert to PDF tool, menu commands, dragging -and-dropping files onto the Acrobat application icon, or converting clipboard data.",
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "1. Do any of the following: \u2022 In Acrobat, select  Create  from  the global toolbar.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "The Create a PDF tool opens. On the left rail, Single  file is selected by default. Choose the  Select  a file button.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "\u2022 Select the hamburger menu  > Create  > PDF from  File (Windows), or File > Create  > PDF from  File (macOS). 2. In the Open dialog box, select the \ufb01le that you want to convert. You can browse all \ufb01le types or select a speci\ufb01c type from the Files Of Type  drop -down menu.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "3. Optionally, select  Advanced  settings  to change the conversion options if you're converting an image file to PDF. The options available vary depending on the file type.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Note: The Advanced  settings  button is unavailable if you choose All Files  as the file type or if no conversion settings are available for the selected file type. (For example, the Advanced settings button is unavailable for Microsoft Word and Microsoft Excel files.)",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "4. Select  Create  to convert the \ufb01le to a PD F.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Depending on the type of \ufb01le being converted, the authoring applica\ufffdon opens automa\ufffdcally, or a progress dialog box appears. If the \ufb01le is in an unsupported format, a message appears, telling you that the \ufb01le cannot be converted to PDF.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "5. When the new PDF opens, choose the hamburger menu   > Save or Save As (Windows), File > Save  or File > Save As (macOS), and  then select a name and location for the PDF.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Note: When naming a PDF that\u2019s intended for electronic distribution, limit the filename to eight characters (with no spaces) and include the .pdf extension. This action ensures that email programs or network servers don\u2019t truncate the filename and that the PDF opens as expected.",
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Convert a file to PDF using the Convert to PDF tool",
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "1. In Acrobat, select  All tools  > Convert  to PDF. 2. In the file explorer window that appears, select the file  you want to convert to PDF, and select  Open . 3. The selected file is converted to PDF and opens in Acrobat. Choose the hamburger menu   > Save or Save  As (Windows), File > Save  or File > Save  As (macOS), and then select a name and location for the PDF.",
+            "page_number": 9
+        }
+    ]
+}
